@@ -25,9 +25,9 @@ const Layout = ({ location, title, children }) => {
       <header className="global-header">{header}</header>
       <main>{children}</main>
       <footer>
-        © {new Date().getFullYear()} 
+        &copy; {new Date().getFullYear()} 
         {` `}
-        <a href="https://www.sharpsolutions.com">cs. joy</a>
+        <a href="https://github.com/cs-joy" >cs. joy</a>
       </footer>
     </div>
   )
