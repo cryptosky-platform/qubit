@@ -67,7 +67,7 @@ Sitting at your desk doesn’t mean you have to read the textbook passively. Tak
 
 #### #5. STEPPING AWAY: Physically remove yourself from work to boost memory.
 
-Have you ever heard of the Zeigarnik effect? It’s a concept in psychology which explains that we remember uncompleted or interrupted tasks better than the ones we already completed.
+Have you ever heard of the Zeigarnik effect?? It’s a concept in psychology which explains that we remember uncompleted or interrupted tasks better than the ones we already completed.
 
 - **The brain prefers some tension.** When we start a task and then interrupt it with a break, this creates a task-specific tension that can improve cognitive function. The tension we feel of having to continue working later keeps the task top of mind; the brain is still focused on it and can easily access the information it needs.
 
